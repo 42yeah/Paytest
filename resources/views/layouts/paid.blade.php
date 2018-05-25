@@ -11,6 +11,9 @@
 
 <div class="container">
     <h1 style="color: gold;">Thank you for purchasing!</h1>
+    <?php
+        echo $request;
+    ?>
 </div>
 
 </body>
