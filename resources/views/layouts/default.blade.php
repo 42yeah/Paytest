@@ -33,6 +33,7 @@
             </div>
         </div>
     </header>
+    <hr class="mt-1px"/>
     <div class="container py-3">
         @yield('content')
     </div>

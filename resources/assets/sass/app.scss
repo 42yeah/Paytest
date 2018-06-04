@@ -1,12 +1,6 @@
 // Bootstrap
-@import '~bootstrap/scss/bootstrap';
+@import "node_modules/bootstrap/scss/bootstrap.scss";
 
-.navbar-laravel {
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
-}
-
-.blog-header {
-  line-height: 1;
-  border-bottom: 1px solid #e5e5e5;
+.mt-1px {
+    margin-top: -10px;
 }
